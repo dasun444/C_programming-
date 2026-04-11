@@ -1,0 +1,6 @@
+# Ignore compiled C binaries and temporary files
+*.exe
+*.o
+*.obj
+*.out
+*.log
