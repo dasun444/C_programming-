@@ -8,12 +8,8 @@ int main(void) {
             total = total - (total*discount);
             printf("Final Amount: %.2f\n",total);
     }
-    else{
-
+   
         printf("Final Amount : %.2f\n",total);
-    }
-
-
-
+    
 }
     
