@@ -8,17 +8,17 @@ int main(void){
     scanf("%d",&foreignLoginStatus);
 
         if(transactionAmount>100000 && foreignLoginStatus==1){
-            printf("High Risk Transaction - Block Account");
+            printf("High Risk Transaction - Block Account.");
         }
         else if(transactionAmount>100000 || foreignLoginStatus==1){
-            printf(" Security Verification Required");
+            printf(" Security Verification Required.");
         }
         else if(transactionAmount>=50000 && transactionAmount<=100000){
-            printf("Transaction Under Review");
+            printf("Transaction Under Review.");
         }
 
         else {
-            printf("Transaction Approved");
+            printf("Transaction Approved.");
         }
 
 }
