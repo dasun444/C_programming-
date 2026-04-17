@@ -8,7 +8,7 @@ int main (void){
         printf("\n");
     }
 }
-/*output
+/*output 
 1 2 3 4 5 
 1 2 3 4 
 1 2 3 
