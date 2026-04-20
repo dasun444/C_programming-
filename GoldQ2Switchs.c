@@ -6,7 +6,7 @@ Write a C program using a nested switch statement to,
 •Input the seat category(Regular,Premium,VIP) (2D-500,1000,3000 & 3D-700,2000,5000)
 •Input the number of tickets
 •Calculate the total ticket cost
-•Display the total amount
+•Display the total amount 
 •Display an error message for invalid movie type or seat category
 */
 
