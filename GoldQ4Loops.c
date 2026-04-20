@@ -13,9 +13,9 @@ for(student=1;student<=10;student++)
         failCount+=1;
     }
 }
-printf("%d Students have scored above 50\n",passCount);
+printf("%d Students have scored above 50",passCount);
 printf("%d Students failed",failCount);
+ 
 
 
-
-}
+} 
