@@ -1,3 +1,8 @@
+/*Q(i)Write a C program to enter 4 module marks of a student from the keyboard and display the total of all four module marks.
+(ii)Modify the program written in (i) above to enter 4 module marks of 3 students and display their total marks.
+(iii)Display the student with highest total mark.*/
+
+
 #include <stdio.h>
 int main (void){
     int marks,totalMarks=0;
