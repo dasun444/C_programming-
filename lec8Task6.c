@@ -33,7 +33,7 @@ Take last digit → 3 → reverse = 4×10 + 3 = 43
 Take last digit → 2 → reverse = 43×10 + 2 = 432
 Take last digit → 1 → reverse = 432×10 + 1 = 4321
 
-Final answer = 4321`
+Final answer = 4321
     */
 
     return reverse;
