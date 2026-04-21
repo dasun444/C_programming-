@@ -12,7 +12,7 @@ int main(){
     
     return 0;
 }
-void printFactors(int num){
+void printFactors(int num){ 
     if(num<0){
         num = -num;
     }
