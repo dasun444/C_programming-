@@ -12,7 +12,7 @@ int main() {
     printf("Sum of digits = %d", result);
 
     return 0;
-}
+} 
 
 
 int sumOfDigits(int num) {
