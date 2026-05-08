@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 float findAverage(float a,float b, float c, float d,float e );
-int main(){
+int main(){ 
     float n1,n2,n3,n4,n5;
     printf("Enter five numbers: ");
     scanf("%f %f %f %f %f",&n1,&n2,&n3,&n4,&n5);
