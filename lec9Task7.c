@@ -5,7 +5,7 @@ Display the duplicate IDs stored in the array.*/
 int main(){
     int i,j,found,n;
     printf("How many product IDs do you want to enter? \n");
-    scanf("%d",&n);
+    scanf("%d",&n); 
     int IDs[n];
     printf("Enter %d product IDs: \n",n);
     for(i=0;i<n;i++){
